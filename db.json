@@ -1,0 +1,155 @@
+{
+  "Enero": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Uber", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tacos", "tipo":"egreso","cantidad":200.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Refresco", "tipo":"egreso","cantidad":300.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":400.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":500.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":600.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":700.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":800.70,"isChecked":false}
+
+		]
+  },
+  "Febrero": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Oxxo", "tipo":"egreso","cantidad":900.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Superama", "tipo":"egreso","cantidad":800.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Walmart", "tipo":"ingreso","cantidad":700.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Deposito", "tipo":"ingreso","cantidad":600.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":500.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Pago", "tipo":"ingreso","cantidad":400.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Deuda", "tipo":"ingreso","cantidad":300.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },
+  "Marzo": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Pizza", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Cervezas", "tipo":"egreso","cantidad":200.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":300.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":400.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Renta", "tipo":"ingreso","cantidad":500.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Sueldo", "tipo":"ingreso","cantidad":500.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":600.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Salario", "tipo":"ingreso","cantidad":700.70,"isChecked":false}
+		]
+  },
+  "Abril": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Jugo", "tipo":"egreso","cantidad":800.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tortas", "tipo":"egreso","cantidad":900.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":300.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Luz", "tipo":"ingreso","cantidad":400.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Agua", "tipo":"ingreso","cantidad":500.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Gas", "tipo":"ingreso","cantidad":600.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Internet", "tipo":"ingreso","cantidad":700.70,"isChecked":false}
+		]
+  },
+  "Mayo": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Uber", "tipo":"egreso","cantidad":800.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tacos", "tipo":"egreso","cantidad":900.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Refresco", "tipo":"egreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":300.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":400.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Transferencia", "tipo":"ingreso","cantidad":500.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":600.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Deposito", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },
+  "Junio": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Pizza", "tipo":"egreso","cantidad":700.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Cervezas", "tipo":"egreso","cantidad":400.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":200.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":700.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Renta", "tipo":"ingreso","cantidad":400.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Sueldo", "tipo":"ingreso","cantidad":300.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":400.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Salario", "tipo":"ingreso","cantidad":600.70,"isChecked":false}
+		]
+  },
+	"Julio": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Jugo", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tortas", "tipo":"egreso","cantidad":100.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":100.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Luz", "tipo":"ingreso","cantidad":200.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Agua", "tipo":"ingreso","cantidad":200.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Gas", "tipo":"ingreso","cantidad":200.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Internet", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },
+	"Agosto": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Uber", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tacos", "tipo":"egreso","cantidad":100.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Refresco", "tipo":"ingreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Refresco", "tipo":"ingreso","cantidad":100.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Television", "tipo":"ingreso","cantidad":200.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Cable", "tipo":"ingreso","cantidad":200.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Comida", "tipo":"ingreso","cantidad":200.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Cena", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },"Septiembre": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Pizza", "tipo":"egreso","cantidad":700.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Cervezas", "tipo":"egreso","cantidad":400.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":200.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":700.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Renta", "tipo":"ingreso","cantidad":400.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Sueldo", "tipo":"ingreso","cantidad":300.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":400.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Salario", "tipo":"ingreso","cantidad":600.70,"isChecked":false}
+		]
+  },"Octubre": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Jugo", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tortas", "tipo":"egreso","cantidad":100.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":100.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Luz", "tipo":"ingreso","cantidad":200.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Agua", "tipo":"ingreso","cantidad":200.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Gas", "tipo":"ingreso","cantidad":200.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Internet", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },"Noviembre": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Uber", "tipo":"egreso","cantidad":100.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Tacos", "tipo":"egreso","cantidad":100.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Refresco", "tipo":"ingreso","cantidad":100.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Refresco", "tipo":"ingreso","cantidad":100.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Television", "tipo":"ingreso","cantidad":200.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Cable", "tipo":"ingreso","cantidad":200.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Comida", "tipo":"ingreso","cantidad":200.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Cena", "tipo":"ingreso","cantidad":200.70,"isChecked":false}
+		]
+  },"Diciembre": {
+    "balance": 0,
+		"gastos":[
+			{"id":1 ,"dia": 1 , "concepto":"Pizza", "tipo":"egreso","cantidad":700.10 ,"isChecked":false},
+			{"id":2 ,"dia": 1 , "concepto":"Cervezas", "tipo":"egreso","cantidad":400.20,"isChecked":false},
+			{"id":3 ,"dia": 1 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":200.50,"isChecked":false},
+			{"id":4 ,"dia": 1 , "concepto":"Casa", "tipo":"ingreso","cantidad":700.56,"isChecked":false},
+			{"id":5 ,"dia": 2 , "concepto":"Renta", "tipo":"ingreso","cantidad":400.20,"isChecked":false},
+			{"id":6 ,"dia": 2 , "concepto":"Sueldo", "tipo":"ingreso","cantidad":300.10,"isChecked":false},
+			{"id":7 ,"dia": 2 , "concepto":"Entrenamiento", "tipo":"ingreso","cantidad":400.89,"isChecked":false},
+			{"id":8 ,"dia": 2 , "concepto":"Salario", "tipo":"ingreso","cantidad":600.70,"isChecked":false}
+		]
+  }
+}
